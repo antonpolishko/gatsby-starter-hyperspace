@@ -3,8 +3,8 @@ import Layout from '../components/layout';
 
 const NotFoundPage = () => (
   <Layout>
-    <h1>NOT FOUND</h1>
-    <p>Not a valid URL</p>
+    <h1>Страница не найдена</h1>
+    <p>Провертье правильность ссылки</p>
   </Layout>
 );
 
